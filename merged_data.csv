@@ -1,0 +1,209 @@
+STATE_NAME,STATE_ABBREVIATION,IncomeType,Burden
+Alabama,AL,Median Household Income,11.44135439421946
+Alaska,AK,Median Household Income,
+Arizona,AZ,Median Household Income,17.538787703575213
+Arkansas,AR,Median Household Income,
+California,CA,Median Household Income,20.076239982672732
+Colorado,CO,Median Household Income,16.92657860472513
+Connecticut,CT,Median Household Income,13.795115998355199
+Delaware,DE,Median Household Income,11.07367335216683
+District of Columbia,DC,Median Household Income,20.447887379327973
+Florida,FL,Median Household Income,
+Georgia,GA,Median Household Income,13.8609249243032
+Hawaii,HI,Median Household Income,10.385432680810357
+Idaho,ID,Median Household Income,11.349478479798586
+Illinois,IL,Median Household Income,
+Indiana,IN,Median Household Income,
+Iowa,IA,Median Household Income,8.954529069468045
+Kansas,KS,Median Household Income,8.915838996340826
+Kentucky,KY,Median Household Income,8.110508830215073
+Louisiana,LA,Median Household Income,14.112358396054356
+Maine,ME,Median Household Income,13.16768992248062
+Maryland,MD,Median Household Income,10.8249245891164
+Massachusetts,MA,Median Household Income,14.685283087072431
+Michigan,MI,Median Household Income,13.33525428612592
+Minnesota,MN,Median Household Income,14.13216026090749
+Mississippi,MS,Median Household Income,
+Missouri,MO,Median Household Income,
+Montana,MT,Median Household Income,13.885635488792394
+Nebraska,NE,Median Household Income,9.286639864438316
+Nevada,NV,Median Household Income,7.731330235126306
+New Hampshire,NH,Median Household Income,12.766956974194429
+New Jersey,NJ,Median Household Income,9.87117229200947
+New Mexico,NM,Median Household Income,
+New York,NY,Median Household Income,12.73490179431501
+North Carolina,NC,Median Household Income,10.85391225689733
+North Dakota,ND,Median Household Income,10.941262095378997
+Ohio,OH,Median Household Income,17.43305792274084
+Oklahoma,OK,Median Household Income,13.465328599376855
+Oregon,OR,Median Household Income,11.232648985959438
+Pennsylvania,PA,Median Household Income,
+Puerto Rico,PR,Median Household Income,
+Rhode Island,RI,Median Household Income,13.565671791779721
+South Carolina,SC,Median Household Income,15.027759789319173
+South Dakota,SD,Median Household Income,7.769079065320026
+Tennessee,TN,Median Household Income,8.304165128259227
+Texas,TX,Median Household Income,6.83654924403542
+Utah,UT,Median Household Income,16.984724034697166
+Vermont,VT,Median Household Income,
+Virginia,VA,Median Household Income,16.586442992294938
+Washington,WA,Median Household Income,15.861962717608996
+West Virginia,WV,Median Household Income,13.218018272748159
+Wisconsin,WI,Median Household Income,14.068829040536778
+Wyoming,WY,Median Household Income,
+Alabama,AL,Median Family Income,9.026431353053276
+Alaska,AK,Median Family Income,
+Arizona,AZ,Median Family Income,15.308525671219972
+Arkansas,AR,Median Family Income,
+California,CA,Median Family Income,16.81381947060711
+Colorado,CO,Median Family Income,14.107491964611155
+Connecticut,CT,Median Family Income,10.928043039677203
+Delaware,DE,Median Family Income,8.773801673616852
+District of Columbia,DC,Median Family Income,14.61413074026193
+Florida,FL,Median Family Income,
+Georgia,GA,Median Family Income,8.375293197810791
+Hawaii,HI,Median Family Income,10.397035854756883
+Idaho,ID,Median Family Income,9.69657032623726
+Illinois,IL,Median Family Income,
+Indiana,IN,Median Family Income,
+Iowa,IA,Median Family Income,6.7250741265953335
+Kansas,KS,Median Family Income,6.869109947643979
+Kentucky,KY,Median Family Income,6.9214928788155134
+Louisiana,LA,Median Family Income,10.315058205031919
+Maine,ME,Median Family Income,10.271830100140294
+Maryland,MD,Median Family Income,9.14766257176663
+Massachusetts,MA,Median Family Income,11.551037816320727
+Michigan,MI,Median Family Income,11.080219665115445
+Minnesota,MN,Median Family Income,11.744287920330278
+Mississippi,MS,Median Family Income,
+Missouri,MO,Median Family Income,
+Montana,MT,Median Family Income,10.782785017770893
+Nebraska,NE,Median Family Income,7.962055606198724
+Nevada,NV,Median Family Income,6.086428920725191
+New Hampshire,NH,Median Family Income,10.185678280207561
+New Jersey,NJ,Median Family Income,8.085802342305321
+New Mexico,NM,Median Family Income,
+New York,NY,Median Family Income,11.01142788573526
+North Carolina,NC,Median Family Income,8.569184074272451
+North Dakota,ND,Median Family Income,8.986427556470183
+Ohio,OH,Median Family Income,13.666344507180767
+Oklahoma,OK,Median Family Income,11.620134438017821
+Oregon,OR,Median Family Income,9.403769799807748
+Pennsylvania,PA,Median Family Income,
+Puerto Rico,PR,Median Family Income,
+Rhode Island,RI,Median Family Income,10.988538681948425
+South Carolina,SC,Median Family Income,11.703190666711496
+South Dakota,SD,Median Family Income,5.748333535998939
+Tennessee,TN,Median Family Income,6.296791051740458
+Texas,TX,Median Family Income,5.513914733920347
+Utah,UT,Median Family Income,13.49804782820888
+Vermont,VT,Median Family Income,
+Virginia,VA,Median Family Income,12.204561438762184
+Washington,WA,Median Family Income,14.037958115183248
+West Virginia,WV,Median Family Income,10.272451347973577
+Wisconsin,WI,Median Family Income,10.070270569357605
+Wyoming,WY,Median Family Income,
+Alabama,AL,Median Female Earnings,20.097406191196544
+Alaska,AK,Median Female Earnings,
+Arizona,AZ,Median Female Earnings,30.821337849280273
+Arkansas,AR,Median Female Earnings,
+California,CA,Median Female Earnings,36.23830145555154
+Colorado,CO,Median Female Earnings,39.45691712425569
+Connecticut,CT,Median Female Earnings,30.108273985293266
+Delaware,DE,Median Female Earnings,23.0281549374741
+District of Columbia,DC,Median Female Earnings,29.674013838362225
+Florida,FL,Median Female Earnings,
+Georgia,GA,Median Female Earnings,18.451150613201047
+Hawaii,HI,Median Female Earnings,17.162407316797772
+Idaho,ID,Median Female Earnings,25.64663385560121
+Illinois,IL,Median Female Earnings,
+Indiana,IN,Median Female Earnings,
+Iowa,IA,Median Female Earnings,16.9448450594426
+Kansas,KS,Median Female Earnings,18.147254929777272
+Kentucky,KY,Median Female Earnings,13.668260100844739
+Louisiana,LA,Median Female Earnings,23.46273756139227
+Maine,ME,Median Female Earnings,23.992655159750274
+Maryland,MD,Median Female Earnings,24.92979570637119
+Massachusetts,MA,Median Female Earnings,31.58636440945647
+Michigan,MI,Median Female Earnings,27.435346424601704
+Minnesota,MN,Median Female Earnings,22.794629476710405
+Mississippi,MS,Median Female Earnings,
+Missouri,MO,Median Female Earnings,
+Montana,MT,Median Female Earnings,36.48739495798319
+Nebraska,NE,Median Female Earnings,18.522813877199376
+Nevada,NV,Median Female Earnings,23.523852857792868
+New Hampshire,NH,Median Female Earnings,29.945254838147267
+New Jersey,NJ,Median Female Earnings,23.422531187505953
+New Mexico,NM,Median Female Earnings,
+New York,NY,Median Female Earnings,34.02102324769922
+North Carolina,NC,Median Female Earnings,19.32684921323256
+North Dakota,ND,Median Female Earnings,22.393650793650792
+Ohio,OH,Median Female Earnings,25.48777788318629
+Oklahoma,OK,Median Female Earnings,28.372838657964046
+Oregon,OR,Median Female Earnings,27.226185074265665
+Pennsylvania,PA,Median Female Earnings,
+Puerto Rico,PR,Median Female Earnings,
+Rhode Island,RI,Median Female Earnings,36.55150005415358
+South Carolina,SC,Median Female Earnings,25.00722008692841
+South Dakota,SD,Median Female Earnings,18.241773661685258
+Tennessee,TN,Median Female Earnings,13.688731741247393
+Texas,TX,Median Female Earnings,17.24597626402211
+Utah,UT,Median Female Earnings,34.97490614503063
+Vermont,VT,Median Female Earnings,
+Virginia,VA,Median Female Earnings,28.307610360210404
+Washington,WA,Median Female Earnings,34.51327433628318
+West Virginia,WV,Median Female Earnings,24.776176753121998
+Wisconsin,WI,Median Female Earnings,28.20918193372392
+Wyoming,WY,Median Female Earnings,
+Alabama,AL,Median Male Earnings,14.62595993770474
+Alaska,AK,Median Male Earnings,
+Arizona,AZ,Median Male Earnings,26.68465192657322
+Arkansas,AR,Median Male Earnings,
+California,CA,Median Male Earnings,29.66144
+Colorado,CO,Median Male Earnings,34.15906127770534
+Connecticut,CT,Median Male Earnings,20.22874037189761
+Delaware,DE,Median Male Earnings,17.320621184063363
+District of Columbia,DC,Median Male Earnings,25.61670997696959
+Florida,FL,Median Male Earnings,
+Georgia,GA,Median Male Earnings,14.872820171054094
+Hawaii,HI,Median Male Earnings,11.22432
+Idaho,ID,Median Male Earnings,15.38450704225352
+Illinois,IL,Median Male Earnings,
+Indiana,IN,Median Male Earnings,
+Iowa,IA,Median Male Earnings,11.93575252825699
+Kansas,KS,Median Male Earnings,11.961568132407603
+Kentucky,KY,Median Male Earnings,10.035241231760379
+Louisiana,LA,Median Male Earnings,14.313480277213278
+Maine,ME,Median Male Earnings,19.446718871639877
+Maryland,MD,Median Male Earnings,16.676163177856914
+Massachusetts,MA,Median Male Earnings,22.3563603845294
+Michigan,MI,Median Male Earnings,19.615364238410596
+Minnesota,MN,Median Male Earnings,20.964698602008383
+Mississippi,MS,Median Male Earnings,
+Missouri,MO,Median Male Earnings,
+Montana,MT,Median Male Earnings,19.433674831133104
+Nebraska,NE,Median Male Earnings,13.010892840517643
+Nevada,NV,Median Male Earnings,15.1295500078788
+New Hampshire,NH,Median Male Earnings,19.799723332308638
+New Jersey,NJ,Median Male Earnings,15.708264146123389
+New Mexico,NM,Median Male Earnings,
+New York,NY,Median Male Earnings,24.189421779783228
+North Carolina,NC,Median Male Earnings,15.833832411307922
+North Dakota,ND,Median Male Earnings,13.15610518915972
+Ohio,OH,Median Male Earnings,20.619084164748017
+Oklahoma,OK,Median Male Earnings,21.633876600698486
+Oregon,OR,Median Male Earnings,19.469908709384327
+Pennsylvania,PA,Median Male Earnings,
+Puerto Rico,PR,Median Male Earnings,
+Rhode Island,RI,Median Male Earnings,23.27287773257017
+South Carolina,SC,Median Male Earnings,17.4026597340266
+South Dakota,SD,Median Male Earnings,8.97418196879746
+Tennessee,TN,Median Male Earnings,11.74097643432435
+Texas,TX,Median Male Earnings,15.058342560258922
+Utah,UT,Median Male Earnings,21.028821251217714
+Vermont,VT,Median Male Earnings,
+Virginia,VA,Median Male Earnings,20.26849733028223
+Washington,WA,Median Male Earnings,25.736782902137236
+West Virginia,WV,Median Male Earnings,18.256034756291037
+Wisconsin,WI,Median Male Earnings,19.389342253851236
+Wyoming,WY,Median Male Earnings,
