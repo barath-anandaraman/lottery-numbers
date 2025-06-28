@@ -23,7 +23,7 @@ pip install -r requirements.txt
 jupyter lab
 # or
 jupyter notebook
-#From the Jupyter interface, you can then open and run the customer-churn.ipynb files 
+#From the Jupyter interface, you can then open and run the lottery-numbers.ipynb files 
 # to see the sentiment analysis in action.
 
 ```
